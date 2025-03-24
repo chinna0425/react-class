@@ -1,0 +1,16 @@
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.unordered-list {
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+li {
+  margin-right: 10px;
+  margin-left: 10px;
+}
